@@ -12,6 +12,7 @@
       "comma-dangle":"warn",
       "prefer-const":"off",
       "arrow-parens":"off",
-      "eol-last":"off"
+      "eol-last":"off",
+      "require-jsdoc":"off"
     }
   }
